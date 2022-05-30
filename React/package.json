@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "magento-react",
   "version": "0.0.1",
-  "description": "React for Magento",
+  "description": "React 18 for Magento 2",
   "scripts": {
     "start": "webpack --mode development --watch",
     "build": "webpack --mode production"
