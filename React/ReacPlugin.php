@@ -1,3 +1,7 @@
+<?php
+
+namespace MTS\React;
+
 class ReactInjectPlugin extends Renderer {
     /**
      * @param Config $pageConfig
